@@ -4,7 +4,7 @@
 
 - <b>iOS Mobile Application</b>
   - [Praciting Mobile Application Development in Swift](https://github.com/gredmon1/Mobile-Application)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Full Stack Web App (React, NodeJS, AWS, and Machine Learning Components)</b>
   - [In Development - Link broken](https://github.com/gentryr) <b><i>(Coming Soon)</b></i>
 - <b>edX Harvard cs50 Intro to Computer Science Course</b>
   - [Practing Computer Science Concepts in C/C++ Programming Language](https://github.com/gredmon1/me50)
