@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>IOS Mobile Application </b>
+- <b>iOS Mobile Application</b>
   - [Praciting Mobile Application Development in Swift](https://github.com/gredmon1/Mobile-Application)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [In Development - Link broken](https://github.com/gredmon1) <b><i>(Coming Soon)</b></i>
+- <b>edX Harvard cs50 Intro to Computer Science Course</b>
+  - [Practing Computer Science Concepts in C/C++ Programming Language](https://github.com/gredmon1/me50)
 <!-- *** From a template
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
