@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gentry! I'm a technology enthusiast that's interested in <br/><a href="https://github.com/gredmond1">Software Development</a>, <a href="www.linkedin.com/in/gentryredmond">Cybersecurity </a>, and ,<a href="https://github.com/gredmond1"> Cloud Technology.</a>
+<h1>Hi, I'm Gentry! I'm a technology enthusiast that's interested in <br/><a href="https://github.com/gredmond1">Information Technology</a>, <a href="www.linkedin.com/in/gentryredmond">Cybersecurity </a>, and ,<a href="https://github.com/gredmond1"> Cloud Technology.</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
